@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Freemangallagher
-- 👀 I’m interested in PowerShell automation
-- 🌱 I’m currently improving my powershell knowledge 
 
 
 <!---
